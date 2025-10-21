@@ -4,8 +4,8 @@ This directory contains conversation history from Claude and ChatGPT, split into
 
 ## Contents
 
-- `claude/` - Claude conversation exports (8 chunks, ~158MB total)
-- `chatgpt/` - ChatGPT conversation exports (2 chunks, ~35MB total)
+- `claude/` - Claude conversation exports (2 chunks, ~35MB total)
+- `chatgpt/` - ChatGPT conversation exports (8 chunks, ~158MB total)
 
 ## Reconstruction
 
