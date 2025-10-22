@@ -1,0 +1,20 @@
+{
+  "name": "universal-memory-skill",
+  "version": "1.0.0",
+  "description": "Claude agent skill that interfaces with the Universal Memory MCP",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "claude",
+    "memory",
+    "mcp",
+    "skill"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

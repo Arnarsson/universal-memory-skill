@@ -31,16 +31,17 @@ The `data` directory contains split conversation history chunks and a README wit
 `query_memories.py` provides a way to search through conversation history.  
 The `utils` folder includes helper functions for asynchronous HTTP requests.  
 
-## Getting Started  
+## Getting Started
 
-1. Clone this repository.  
-2. Ensure you have Python 3.8+ installed.  
-3. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-4. Use the scripts in the `scripts` folder to interact with Universal Memory MCP.  
-5. Refer to `SKILL.md` for manifest details and usage guidance.  
+1. Clone this repository.
+2. Ensure you have Python 3.8+ installed (for Python scripts).
+3. Ensure you have Node.js 18+ installed (for JavaScript scripts).
+4. Install Python dependencies (none required - all standard library):
+   ```bash
+   pip install -r requirements.txt
+   ```
+5. Use the scripts in the `scripts` folder to interact with Universal Memory MCP.
+6. Refer to `SKILL.md` for manifest details and usage guidance.  
 
 ## License  
 
